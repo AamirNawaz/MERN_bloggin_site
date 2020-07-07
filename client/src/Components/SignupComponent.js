@@ -55,15 +55,6 @@ class SignupComponent extends Component {
       }
     });
 
-    // console.log(
-    //   "message::::",
-    //   message,
-    //   "::::error:::::::",
-    //   error,
-    //   "success::::::::",
-    //   success
-    // );
-
     this.setState({
       message,
       error,
